@@ -3,8 +3,8 @@ const ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png'
+  '/11zon_cropped-removebg-preview.png',
+  '/11zon_cropped-removebg-preview.png'
 ];
 
 // Install: cache app shell
