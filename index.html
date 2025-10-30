@@ -51,7 +51,7 @@
 
     // Register service worker
     if ('serviceWorker' in navigator) {
-      navigator.serviceWorker.register('/sw.js')
+      navigator.serviceWorker.register('sw.js')
       .then(reg => {
         statusEl.textContent = 'Status: Service worker terdaftar.';
         // listen updatefound
